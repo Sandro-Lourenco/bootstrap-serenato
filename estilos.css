@@ -81,7 +81,6 @@ input[type="checkbox"]:focus {
   color: #E6E0D6 !important; /* Cor clara para o texto geral */
 }
 
-/* Componentes com cor de fundo que precisam ser ajustadas */
 .dark-mode .navbar-expand-lg,
 .dark-mode .offcanvas-body {
     background-color: var(--bege) !important;
