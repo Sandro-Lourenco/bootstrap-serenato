@@ -57,6 +57,6 @@ Para visualizar e trabalhar neste projeto:
 
 O projeto está disponível online através do **GitHub Pages** (Se for o caso, adicione o link aqui).
 
-* **Link de Acesso:** https://pages.github.com/
+* **Link de Acesso:** https://pages.github.com/](https://sandro-lourenco.github.io/bootstrap-serenato/
 
 ---
